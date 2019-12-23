@@ -1,0 +1,15 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est FA1A-DB8F
+
+ R‚pertoire de C:\Users\utilisateur\Desktop\ExercicesGIT\formation-git
+
+23/12/2019  15:09    <DIR>          .
+23/12/2019  15:09    <DIR>          ..
+23/12/2019  14:51                 0 kikou.txt
+23/12/2019  14:51                 0 les carottes sont cuites.txt
+23/12/2019  14:33               412 monpremiercommit.txt
+23/12/2019  14:51                 0 non mais oh toi.txt
+23/12/2019  14:51                 0 porque la vida loca.txt
+23/12/2019  15:09                 0 salut_les_gars.txt
+               6 fichier(s)              412 octets
+               2 R‚p(s)  75ÿ149ÿ512ÿ704 octets libres
